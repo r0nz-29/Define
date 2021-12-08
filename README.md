@@ -1,4 +1,4 @@
 # define
-Termial application written in rust which fetches results from urban dictionary's api
+Rust script to fetch results from urban dictionary's api
 
 Usage: define 'word'
